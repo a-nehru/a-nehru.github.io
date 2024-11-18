@@ -21,7 +21,7 @@ repository               : "a-nehru/a-nehru.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "dp.jpg"
   name             : "Aravind Nehrujee"
   pronouns         : # example: "she/her"  
   bio              : "Rehab Tech Enthusiast"
