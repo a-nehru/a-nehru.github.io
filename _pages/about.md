@@ -13,7 +13,7 @@ I strive to create tools that are simple to use yet built on strong scientific a
 
 ---
 
-### **From PhD and Postdoc**
+### **My PhD and Postdoc Research**
 
 During my PhD, I developed PLUTO, a hand rehabilitation robot designed to help train motor recovery in individuals with sensory-motor impairments. Over several years, PLUTO underwent four iterations, informed by feedback from patients, clinicians, and researchers. I directly collaborated with more than 100 patients and 50 clinicians, conducting trials with 1,000+ participants across seven centers. This iterative process ensured that PLUTO became a practical and evidence-based tool for rehabilitation.
 
@@ -22,7 +22,7 @@ In addition to PLUTO, I co-built several other devices aimed at assessing and tr
 
 Building on this foundation, my current postdoctoral work at Shirley Ryan AbilityLab focuses on exploring neuromodulation techniques that enhance the brain and spinal cord’s ability to adapt and recover. These techniques include:
 
-Acute Intermittent Hypoxia (AIH): A method using brief periods of low oxygen to promote neuroplasticity.
+Acute Intermittent Hypoxia (AIH): A method using brief periods of low oxygen to induce neuroplasticity.
 Transcutaneous spinal stimulation: A non-invasive technique aimed at improving sensorimotor function.
 By expanding my work from mechatronic training solutions to neuromodulation, I aim to integrate these approaches to develop more comprehensive and effective rehabilitation interventions. This evolution allows me to connect engineering and neuroscience, driving innovations that translate directly into clinical impact.
 ---
