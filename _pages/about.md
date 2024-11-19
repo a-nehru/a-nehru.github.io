@@ -7,29 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Aravind Nehrujee**, a rehabilitation engineer and postdoctoral researcher at **Shirley Ryan AbilityLab (SRAlab)** in Chicago, USA. My work focuses on developing technologies and therapies to help people with sensory-motor impairments regain independence and improve their quality of life.
+I’m **Aravind Nehrujee**, a postdoctoral researcher at **Shirley Ryan AbilityLab (SRAlab)** in Chicago, USA. My work focuses on developing technologies and therapies to help people with sensory-motor impairments regain independence and improve their quality of life.
 
-I strive to create tools that are simple to use yet built on strong scientific and clinical foundations. Whether it’s designing robots for rehabilitation or exploring neuromodulation techniques, my goal is to make advanced therapies accessible and impactful.
+I strive to create tools that are simple to use yet built on strong scientific and clinical foundations. Whether it’s designing robots for rehabilitation or exploring neuromodulation techniques, my goal is to make advanced therapies accessible and Efficacious.
 
 ---
 
-### **From PLUTO to Neuromodulation**
+### **From PhD and Postdoc**
 
-During my PhD, I developed **PLUTO**, a hand rehabilitation robot designed to support motor recovery. Over several years, PLUTO evolved through **four versions**, shaped by feedback from **patients, clinicians, and researchers**. I worked directly with **more than 100 patients** and **50 clinicians**, conducting trials with **1,000+ participants** across **seven centers**. It’s now being commercialized and was one of the first robots used in **home-based clinical trials**, helping people access therapy in their own homes.
+During my PhD, I developed PLUTO, a hand rehabilitation robot designed to help train motor recovery in individuals with sensory-motor impairments. Over several years, PLUTO underwent four iterations, informed by feedback from patients, clinicians, and researchers. I directly collaborated with more than 100 patients and 50 clinicians, conducting trials with 1,000+ participants across seven centers. This iterative process ensured that PLUTO became a practical and evidence-based tool for rehabilitation.
 
-Now, at SRAlab, I’m building on this foundation by exploring **neuromodulation techniques** like:
-- **Acute Intermittent Hypoxia (AIH):** Short bursts of low oxygen to encourage neuroplasticity.
-- **Transcutaneous spinal stimulation:** A non-invasive way to improve motor function.
+The system is now being commercialized and was among the first robots used in home-based clinical trials, showcasing its potential to make advanced rehabilitation more accessible. 
+In addition to PLUTO, I co-built several other devices aimed at assessing and training sensory-motor function. These projects further deepened my understanding of how technology can be designed to address the diverse needs of patients and clinicians
 
-These methods aim to unlock the brain and spinal cord’s ability to adapt and recover, helping to develop therapies that combine science with real-world usability.
+Building on this foundation, my current postdoctoral work at Shirley Ryan AbilityLab focuses on exploring neuromodulation techniques that enhance the brain and spinal cord’s ability to adapt and recover. These techniques include:
 
+Acute Intermittent Hypoxia (AIH): A method using brief periods of low oxygen to promote neuroplasticity.
+Transcutaneous spinal stimulation: A non-invasive technique aimed at improving sensorimotor function.
+By expanding my work from mechatronic training solutions to neuromodulation, I aim to integrate these approaches to develop more comprehensive and effective rehabilitation interventions. This evolution allows me to connect engineering and neuroscience, driving innovations that translate directly into clinical impact.
 ---
 
 ### **My Philosophy**
 
 For me, impactful technologies are not just about complexity or innovation—they must also be **translatable** and **usable**. A tool is only as good as the ease with which people can adopt it, whether it’s a clinician in a busy hospital or a patient recovering at home.
 
-I often think about **Google Search** as an example. On the surface, it’s a simple search box that anyone can use. Behind the scenes, though, it’s powered by complex algorithms like **PageRank** and **BERT**, which make it incredibly effective. Similarly, I aim to create rehabilitation tools that feel intuitive to use but are backed by rigorous science and engineering.
+I often think about **Google Search** as an example. On the surface, it’s a simple search box that anyone can use. Behind the scenes, though, it’s powered by complex algorithms like PageRank and BERT, which make it incredibly effective. Similarly, I would like to create rehabilitation tools that feel intuitive to use but are backed by rigorous science and engineering.
 
 This approach ensures that the tools I develop are not only scientifically sound but also practical and scalable for real-world use.
 
