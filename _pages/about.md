@@ -1,52 +1,44 @@
 ---
 permalink: /
-title: "Hello World! :)"
+title: "Aravind Nehrujee"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m **Aravind Nehrujee**, a postdoctoral researcher at **Shirley Ryan AbilityLab (SRAlab)** in Chicago, USA. My work focuses on developing technologies and therapies to help people with sensory-motor impairments regain independence and improve their quality of life.
+I'm a postdoctoral researcher at **Shirley Ryan AbilityLab** and **Northwestern University**, working at the intersection of rehabilitation engineering and neuroscience. My goal is to build tools that help people with neurological conditions recover motor function — tools that are rigorous in their science, simple to use, and accessible beyond the clinic.
 
-I strive to create tools that are simple to use yet built on strong scientific and clinical foundations. Whether it’s designing robots for rehabilitation or exploring neuromodulation techniques, my goal is to make advanced therapies accessible and Efficacious.
-
----
-
-### **My PhD and Postdoc Research**
-
-During my PhD, I developed PLUTO, a hand rehabilitation robot designed to help train motor recovery in individuals with sensory-motor impairments. Over several years, PLUTO underwent four iterations, informed by feedback from patients, clinicians, and researchers. I directly collaborated with more than 100 patients and 50 clinicians, conducting trials with 1,000+ participants across seven centers. This iterative process ensured that PLUTO became a practical and evidence-based tool for rehabilitation.
-
-The system is now being commercialized and was among the first robots used in home-based clinical trials, showcasing its potential to make advanced rehabilitation more accessible. 
-In addition to PLUTO, I co-built several other devices aimed at assessing and training sensory-motor function. These projects further deepened my understanding of how technology can be designed to address the diverse needs of patients and clinicians
-
-Building on this foundation, my current postdoctoral work at Shirley Ryan AbilityLab focuses on exploring neuromodulation techniques that enhance the brain and spinal cord’s ability to adapt and recover. These techniques include:
-
-Acute Intermittent Hypoxia (AIH): A method using brief periods of low oxygen to induce neuroplasticity.
-Transcutaneous spinal stimulation: A non-invasive technique aimed at improving sensorimotor function.
-By expanding my work from mechatronic training solutions to neuromodulation, I aim to integrate these approaches to develop more comprehensive and effective rehabilitation interventions. This evolution allows me to connect engineering and neuroscience, driving innovations that translate directly into clinical impact.
----
-
-### **My Philosophy**
-
-For me, impactful technologies are not just about complexity or innovation—they must also be **translatable** and **usable**. A tool is only as good as the ease with which people can adopt it, whether it’s a clinician in a busy hospital or a patient recovering at home.
-
-I often think about **Google Search** as an example. On the surface, it’s a simple search box that anyone can use. Behind the scenes, though, it’s powered by complex algorithms like PageRank and BERT, which make it incredibly effective. Similarly, I would like to create rehabilitation tools that feel intuitive to use but are backed by rigorous science and engineering.
-
-This approach ensures that the tools I develop are not only scientifically sound but also practical and scalable for real-world use.
+My work spans rehabilitation robotics, neuromodulation, and game-based training. I build and test systems through clinical trials, with direct collaboration with patients and clinicians throughout the design process.
 
 ---
 
-### **How I Got Here**
+## Current Research
 
-My journey into rehabilitation engineering began at **CMC Vellore**, one of India’s leading rehabilitation centers. During my master’s, I worked on a **smartphone-based vestibular gaming system** to help patients regain balance. That project sparked my interest in using technology to create meaningful healthcare solutions.
+**AIH + MINT for Multiple Sclerosis** *(PVA Research Fellow, FY2026)*  
+Principal investigator on a funded double-blind RCT combining acute intermittent hypoxia (AIH) — a neuromodulatory technique that boosts BDNF and motoneuron excitability — with Myoelectric Interface Neurorehabilitation Training (MINT), a gamified EMG biofeedback paradigm that retrains abnormal muscle coactivation. The goal: determine whether AIH priming amplifies the motor recovery gains of MINT in people with MS.
 
-While at CMC, I also visited rural hospitals in **Raxaul, Bihar**, and **Odisha**, where I saw firsthand how limited resources could affect access to care. These experiences shaped my commitment to designing solutions that are **affordable**, **practical**, and **accessible**, ensuring they reach those who need them the most.
+**AIH in Multiple Sclerosis** *(NIH R21, completed)*  
+Led a randomized crossover trial (n=27) evaluating five consecutive days of AIH in people with MS. Results showed sustained increases in ankle strength — plantarflexion +30% and dorsiflexion +27% at one-week follow-up. Awarded **Special Mention Poster and Best Poster Finalist** at ASNR 2026.
+
+**Proprioception Assessment**  
+Designed and validated a hierarchical robotic assessment battery (using PLUTO) spanning joint detection, same-frame matching, and cross-frame visual matching. The battery provides psychometrically grounded thresholds (SDC₉₅) for detecting true change in future intervention trials.
+
+**VR-Based Motor Assessment**  
+Developed a Meta Quest 3 system to quantify upper-limb motor impairment in people post-stroke, capturing range of motion, movement quality, and temporal characteristics.
 
 ---
 
-### **Looking Ahead**
+## PhD Work: PLUTO
 
-As I continue my work, I hope to combine everything I’ve learned—robotics, proprioception assessment, and neuromodulation—into integrated solutions for rehabilitation. My vision is to make these therapies scalable and accessible, so they can help people no matter where they are, from cutting-edge hospitals to underserved communities.
+During my PhD at IIT Madras and CMC Vellore, I developed **PLUTO** — a modular, single-degree-of-freedom hand rehabilitation robot that enables training of five isolated hand movements. Over four iterations, informed by 200+ stakeholders, PLUTO was evaluated through three in-clinic studies and a four-week home trial — the first home-based robotic rehabilitation trial in India, including a participant in a remote tribal village 150 km from the hospital. PLUTO has been deployed across six centers, benefiting 1,000+ patients, and is now commercially available through **Thryv Mobility Rehabilitation Solutions**.
+
+As a **Newton-Bhabha Fellow** at Imperial College London (with Prof. Etienne Burdet), I extended PLUTO to support haptic multiplayer training paradigms — finding that collaborative and competitive game modes both improved motor performance compared to solo training.
 
 ---
+
+## Background
+
+My path into rehabilitation engineering began during my master's at CMC Vellore, where I developed Vegas — a smartphone-based vestibular gaming system for home rehabilitation. Visits to rural hospitals in Bihar and Odisha shaped a lasting commitment to designing solutions that are affordable and deployable far beyond well-resourced centers.
+
+I think of effective rehabilitation technology the way I think of a well-designed search engine: the interface should be invisible, but the machinery behind it should be deep and precise.
